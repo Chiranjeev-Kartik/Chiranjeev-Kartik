@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Chiranjeev-Kartik
 - 👀 I’m interested in Python and Machine Learning
-- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Python and ML related projects
 - 📫 Reach me through my [Portfolio](https://kartikaygupta.pythonanywhere.com/)
 
